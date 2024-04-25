@@ -1,0 +1,17 @@
+/**
+ * BootstrapValidator (https://github.com/nghuuphuoc/bootstrapvalidator)
+ *
+ * A jQuery plugin to validate form fields. Use with Bootstrap 3
+ *
+ * @author      http://twitter.com/nghuuphuoc
+ * @copyright   (c) 2014 Nguyen Huu Phuoc
+ * @license     MIT
+ */
+.control .help-block {
+  margin-bottom: 0; 
+  color:red;
+  font-style:italic;
+  }
+.control .help-block ul{
+list-style:none;
+}
